@@ -1,4 +1,4 @@
-package com.learn.blog.domain.repositories;
+package com.learn.blog.repositories;
 
 import com.learn.blog.domain.entities.Tag;
 import org.springframework.data.jpa.repository.JpaRepository;
